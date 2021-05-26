@@ -1,0 +1,31 @@
+div{
+    width: 25em;
+    height: auto;
+    border: 2px solid red;
+    text-align: center;
+    display: inline-block;
+    margin: 2em;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+figure{
+    display: inline-block;
+}
+
+img{
+
+width: 75%;
+height: auto;
+
+}
